@@ -2,7 +2,7 @@
  * Shaun Mbateng
  * Triangle Program
  * This program displays whether an array contains three integers that can make a triangle.
- * It has a best and average case time complexity of O(N+M), and a worst case of O(N*log(N)).
+ * It has an average case time complexity of O(N+M), and a worst case of O(N*log(N)).
  */
 
 import java.util.Scanner; //For Inputs

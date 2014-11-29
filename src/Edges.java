@@ -1,6 +1,6 @@
 /*
  * The class that determines whether an array contains three integers that can make a triangle.
- * This has a best and average case time complexity of O(N+M), and a worst case of O(N*log(N)).
+ * This has an average case time complexity of O(N+M), and a worst case of O(N*log(N)).
  */
 
 import java.util.Arrays; //For Calling Sorting Function
